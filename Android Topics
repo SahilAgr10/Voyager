@@ -1,2 +1,2 @@
 Layout Language : XML && backend codde : Java
-Attributes used : TextView , ImageView , linearLayout & relativeLayout 
+Attributes used : TextView , ImageView , linearLayout & relativeLayout [imp measures : sp for sizes, dp for pixels , center & centeCrop ,textStyle ]
